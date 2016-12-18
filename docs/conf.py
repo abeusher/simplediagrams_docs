@@ -134,7 +134,7 @@ html_theme = 'simplediagrams_sphinx_theme'
 # html_theme_options = {}
 
 # Add any paths that contain custom themes here, relative to this directory.
-# html_theme_path = []
+html_theme_path = [simplediagrams_sphinx_theme.get_html_theme_path()]
 
 # The name for this set of Sphinx documents.
 # "<project> v<release> documentation" by default.
