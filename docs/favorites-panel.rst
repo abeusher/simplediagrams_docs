@@ -1,0 +1,4 @@
+Favorites Panel
+===================
+
+(tktktkt)
