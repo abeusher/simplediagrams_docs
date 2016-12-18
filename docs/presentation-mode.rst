@@ -1,4 +1,4 @@
-Presentation Mode
+Using Presentation Mode
 =====================
 
 Presentation mode is a way of launching a separate window for your SimpleDiagram that you might want to use when explaining something

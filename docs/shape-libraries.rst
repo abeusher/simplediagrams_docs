@@ -1,5 +1,5 @@
-Shape Libraries
-=======================
+Working with Shape Libraries
+=============================
 (tktktkt)
 
 Libraries Panel

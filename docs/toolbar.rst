@@ -1,4 +1,4 @@
-Toolbar
+The Toolbar
 ===========
 The SimpleDiagrams toolbar contains most of the tools you'll need to modify your diagrams.
 
