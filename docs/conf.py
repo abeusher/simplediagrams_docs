@@ -26,6 +26,10 @@
 #
 # needs_sphinx = '1.0'
 
+
+# SimpleDiagrams theme, based on Read The Docs
+import simplediagrams_sphinx_theme
+
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
@@ -121,7 +125,7 @@ todo_include_todos = True
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'default'
+html_theme = 'simplediagrams_sphinx_theme'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the

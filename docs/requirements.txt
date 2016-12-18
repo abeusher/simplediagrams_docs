@@ -19,6 +19,7 @@ singledispatch==3.4.0.3
 six==1.10.0
 snowballstemmer==1.2.1
 sphinx-autobuild==0.6.0
+-e git+https://github.com/danielmcquillen/sphinx_rtd_theme.git@18c59c5f944d36032dd37c5b0cd7d31589b8ca65#egg=sphinx_rtd_theme-master
 tornado==4.4.2
 watchdog==0.8.3
 wsgiref==0.1.2
