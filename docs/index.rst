@@ -3,11 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-The SimpleDiagrams Simple Simple User Guide
-===========================================
-The future home of documentation for SimpleDiagrams.
+Welcome to thehe SimpleDiagrams Super Simple User Guide
+========================================================
+This document is my attempt to explain to you how best to use SimpleDiagrams.
+Ideally, you shouldn't even be here since it should have been easy to figure out
+what you wanted to do. Alas, here you are. Therefore I'll try to get you back to
+being productive with the app as quickly as possible.
 
-Skip to the Quick Start page if documentation makes you cranky.
+Skip to the Quick Start page if this much help text has already made you cranky.
 
 Contents:
 
