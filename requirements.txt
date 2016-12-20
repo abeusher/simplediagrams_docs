@@ -14,7 +14,7 @@ livereload==2.4.1
 pathtools==0.1.2
 port-for==0.3.1
 pytz==2016.7
--e git+https://github.com/danielmcquillen/sphinx_rtd_theme.git#egg=simplediagrams_sphinx_theme-master
+-e git+https://github.com/danielmcquillen/sphinx_rtd_theme.git#egg=simplediagrams_sphinx_theme
 singledispatch==3.4.0.3
 six==1.10.0
 snowballstemmer==1.2.1
