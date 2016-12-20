@@ -20,6 +20,7 @@ Contents:
    toolbar
    shape-libraries
    background-libraries
+   color
    templates-panel
    extras-panel
    favorites-panel
