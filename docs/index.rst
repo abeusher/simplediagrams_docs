@@ -7,8 +7,10 @@ Welcome to the SimpleDiagrams Super Simple Docs
 ========================================================
 This document is my attempt to explain to you how best to use SimpleDiagrams.
 Ideally, you shouldn't even be here since it should have been easy to figure out
-what you wanted to do. Alas, here you are. Therefore I'll try to get you back to
-being productive with the app as quickly as possible.
+what you wanted to do.
+
+Alas, here you are. But try not to be sad. These docs will get you back to being productive with
+the app as quickly as possible.
 
 Skip to the :ref:`quick-start` page if this much help text has already made you cranky.
 
