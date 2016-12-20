@@ -10,22 +10,26 @@ Ideally, you shouldn't even be here since it should have been easy to figure out
 what you wanted to do. Alas, here you are. Therefore I'll try to get you back to
 being productive with the app as quickly as possible.
 
-Skip to the Quick Start page if this much help text has already made you cranky.
+Skip to the :ref:`quick-start` page if this much help text has already made you cranky.
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
+   :caption: The Basics
 
    introduction
-   :caption: The Basics
    quick-start
    making-diagrams
    toolbar
    shape-libraries
    background-libraries
    color
+
+.. toctree::
+   :maxdepth: 2
    :caption: Features
+
    templates-panel
    extras-panel
    favorites-panel
@@ -37,7 +41,11 @@ Contents:
    view-helpers
    manage-libraries
    color-selectors
+
+.. toctree::
+   :maxdepth: 2
    :caption: Technical Docs
+
    custom-svg
    user-files
    sdlp-format
