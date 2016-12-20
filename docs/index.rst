@@ -18,12 +18,14 @@ Contents:
    :maxdepth: 2
 
    introduction
+   :caption: The Basics
    quick-start
    making-diagrams
    toolbar
    shape-libraries
    background-libraries
    color
+   :caption: Features
    templates-panel
    extras-panel
    favorites-panel
@@ -35,6 +37,12 @@ Contents:
    view-helpers
    manage-libraries
    color-selectors
+   :caption: Technical Docs
+   custom-svg
+   user-files
+   sdlp-format
+   palette-format
+
 
 
 
