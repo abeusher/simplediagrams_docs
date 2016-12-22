@@ -3,7 +3,7 @@
 Quick Reference
 ===================
 
-Here's a quick reference to the command keys and other shortcust you can use to make your life easier when using SimpleDiagrams.
+Here's a quick reference to the command keys and other shortcuts you can use to make your life easier when using SimpleDiagrams.
 
 .. raw:: html
 
