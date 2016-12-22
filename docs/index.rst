@@ -60,6 +60,13 @@ Contents:
    palette-format
 
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Reference
+
+   v4-EULA
+
+
 
 
 Indices and tables
