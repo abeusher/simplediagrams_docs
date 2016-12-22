@@ -194,14 +194,15 @@ Here's a quick reference to the command keys and other shortcust you can use to 
                 <td>Zoom in one step</td>
             </tr>
             <tr>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
             </tr>
+
             <tr>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
             </tr>
 
 
@@ -253,15 +254,17 @@ Here's a quick reference to the command keys and other shortcust you can use to 
             </tr>
 
             <tr>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
             </tr>
+
             <tr>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
             </tr>
+
 
 
 
@@ -312,16 +315,16 @@ Here's a quick reference to the command keys and other shortcust you can use to 
                 <td colspan="2">Double-click drag bar</td>
                 <td>Hide/Show Panels</td>
             </tr>
+             <tr>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
 
             <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-            </tr>
-            <tr>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
             </tr>
 
 
@@ -390,16 +393,16 @@ Here's a quick reference to the command keys and other shortcust you can use to 
                 <td>Move selected shape to front of diagram layers.</td>
             </tr>
 
-            <tr>
-                <td></td>
-                <td></td>
-                <td></td>
+             <tr>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
             </tr>
 
             <tr>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
             </tr>
 
 
@@ -434,15 +437,15 @@ Here's a quick reference to the command keys and other shortcust you can use to 
             </tr>
 
             <tr>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
             </tr>
 
             <tr>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
             </tr>
 
 
