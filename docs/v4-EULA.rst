@@ -21,47 +21,47 @@ Effective Date: End User License Agreement was last updated on 01/01/2017
 2. Definitions
 ----------------
 
-2.1. In this Agreement, the following definitions apply:
+    2.1. In this Agreement, the following definitions apply:
 
-2.1.1. “Company” means McQuillen Interactive Pty Ltd ACN 600 623 069 or its assigns.
+        2.1.1. “Company” means McQuillen Interactive Pty Ltd ACN 600 623 069 or its assigns.
 
-2.1.2. “Corporate entity” means any incorporated or unincorporated entity of legal personhood and, for the absence of doubt, excludes natural persons;
+        2.1.2. “Corporate entity” means any incorporated or unincorporated entity of legal personhood and, for the absence of doubt, excludes natural persons;
 
-2.1.3. “Extended Online Libraries” means the enhanced version of the Online Libraries feature, which provides a limited amount of premium content for a monthly fee.
+        2.1.3. “Extended Online Libraries” means the enhanced version of the Online Libraries feature, which provides a limited amount of premium content for a monthly fee.
 
-2.1.4. “Extended Online Libraries Subscription Fee” means the monthly license fee payable by the User if it elects to subscribe for the Extended Online Libraries Feature;
+        2.1.4. “Extended Online Libraries Subscription Fee” means the monthly license fee payable by the User if it elects to subscribe for the Extended Online Libraries Feature;
 
-2.1.5. “Free Shapes” means shapes retrieved via the Online Libraries search function which are designated as ‘free’;
+        2.1.5. “Free Shapes” means shapes retrieved via the Online Libraries search function which are designated as ‘free’;
 
-2.1.6. “Individual” means a natural person;
+        2.1.6. “Individual” means a natural person;
 
-2.1.7. “Software Licence Fee” means the license fee which you have agreed to pay in exchange for use of the basic Software;
+        2.1.7. “Software Licence Fee” means the license fee which you have agreed to pay in exchange for use of the basic Software;
 
-2.1.8. “Online Libraries” means the bonus web-based search feature, subject to cancellation at the discretion of the Company, which allows the User to search for additional Shapes for use within the Software;
+        2.1.8. “Online Libraries” means the bonus web-based search feature, subject to cancellation at the discretion of the Company, which allows the User to search for additional Shapes for use within the Software;
 
-2.1.9. “Premium Shapes” means shapes retrieved via the Online Libraries search function which are designated as ‘Premium’;
+        2.1.9. “Premium Shapes” means shapes retrieved via the Online Libraries search function which are designated as ‘Premium’;
 
-2.1.10. “SimpleDiagrams application” means the SimpleDiagrams software which is a prerequisite to the use of the Shapes and Shape Library.
+        2.1.10. “SimpleDiagrams application” means the SimpleDiagrams software which is a prerequisite to the use of the Shapes and Shape Library.
 
-2.1.11. “SimpleDiagrams Shape License” means the terms and conditions which apply to your use of certain Shapes pursuant to clause 7.
+        2.1.11. “SimpleDiagrams Shape License” means the terms and conditions which apply to your use of certain Shapes pursuant to clause 7.
 
-2.1.12. "Shapes" means the individual graphic shapes that come either packaged with the software, individually, or are made available as plugins; and
+        2.1.12. "Shapes" means the individual graphic shapes that come either packaged with the software, individually, or are made available as plugins; and
 
-2.1.13. “Shape Library” means the group of individual Shapes distributed together as one unit for use, either for free or for a fee, with the SimpleDiagrams application and which you request use of in connection with this agreement.
+        2.1.13. “Shape Library” means the group of individual Shapes distributed together as one unit for use, either for free or for a fee, with the SimpleDiagrams application and which you request use of in connection with this agreement.
 
-2.1.14. “Shape Library Plugin” means a Shape Library packaged and distributed by the Company,  either for free or for payment of a fee, and which are downloaded as a “.sdpl” file type.
+        2.1.14. “Shape Library Plugin” means a Shape Library packaged and distributed by the Company,  either for free or for payment of a fee, and which are downloaded as a “.sdpl” file type.
 
-2.1.15. “Software” means the software encoding the SimpleDiagrams application;
+        2.1.15. “Software” means the software encoding the SimpleDiagrams application;
 
-2.1.16. "Storage Media" shall mean CD-ROM, digital video disc (DVD), floppy disk, or any other storage device or media now known, or hereafter created.
+        2.1.16. "Storage Media" shall mean CD-ROM, digital video disc (DVD), floppy disk, or any other storage device or media now known, or hereafter created.
 
-2.1.17. "User" shall mean the individual, legal entity or agent entering into this Agreement or any employee or contractor of such individual, legal entity or agent that
-edits, manipulates or modifies the Shape(s) or are otherwise directly involved in the creative process. All Users shall only use the Shape Library(s) in accordance with the terms of this Agreement.
+        2.1.17. "User" shall mean the individual, legal entity or agent entering into this Agreement or any employee or contractor of such individual, legal entity or agent that
+        edits, manipulates or modifies the Shape(s) or are otherwise directly involved in the creative process. All Users shall only use the Shape Library(s) in accordance with the terms of this Agreement.
 
-2.1.18. “Use” means storing, loading, installing or executing the Software;
+        2.1.18. “Use” means storing, loading, installing or executing the Software;
 
-2.1.19. "You" shall mean you, a single: (i) individual, (ii) legal entity (corporation, partnership, LLC, sole proprietorship, etc.), or (iii) agent acting on behalf of a single individual or entity.
-
+        2.1.19. "You" shall mean you, a single: (i) individual, (ii) legal entity (corporation, partnership, LLC, sole proprietorship, etc.), or (iii) agent acting on behalf of a single individual or entity.
+        
 
 3. Licence Grant
 --------------------
