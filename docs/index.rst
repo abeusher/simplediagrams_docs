@@ -6,7 +6,7 @@
 Welcome to the SimpleDiagrams Super Simple Docs
 ========================================================
 This document is my attempt to explain to you how best to use SimpleDiagrams.
-Ideally, you shouldn't even be here since it should have been easy to figure out
+Actually, you shouldn't even be here. The user interface should have made it easy to figure out
 what you wanted to do.
 
 Alas, here you are. But try not to be sad. These docs will get you back to being productive with
@@ -19,6 +19,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
    :caption: The Essentials
+
    quick-start
    quick-reference
 
