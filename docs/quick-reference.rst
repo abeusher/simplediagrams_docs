@@ -193,6 +193,19 @@ Here's a quick reference to the command keys and other shortcust you can use to 
                 <td>Cmd Shift +</td>
                 <td>Zoom in one step</td>
             </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+
+
+
 
 
 
@@ -237,6 +250,17 @@ Here's a quick reference to the command keys and other shortcust you can use to 
                 <td>T</td>
                 <td>T</td>
                 <td>Select Text tool.</td>
+            </tr>
+
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
             </tr>
 
 
@@ -284,11 +308,28 @@ Here's a quick reference to the command keys and other shortcust you can use to 
                 <td>Show Search panel.</td>
             </tr>
 
-
             <tr>
                 <td colspan="2">Double-click drag bar</td>
                 <td>Hide/Show Panels</td>
             </tr>
+
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+
+
+
+
+
+
+
 
 
             <tr class="table-subhead">
@@ -349,6 +390,25 @@ Here's a quick reference to the command keys and other shortcust you can use to 
                 <td>Move selected shape to front of diagram layers.</td>
             </tr>
 
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+
+
+
+
+
+
+
+
             <tr class="table-subhead">
                 <td colspan="3">
                     <b>Manipulating Connector Lines</b>
@@ -372,6 +432,24 @@ Here's a quick reference to the command keys and other shortcust you can use to 
                 <td>Alt-Shift then click-drag</td>
                 <td>Same as Quick Connector Mode (see above), except that you can draw a multi-segment connector. Just keep clicking for each segment.</td>
             </tr>
+
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+
+
+
+
+
+
 
             <tr class="table-subhead">
                 <td colspan="3">
