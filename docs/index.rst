@@ -18,20 +18,25 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
-   :caption: The Basics
+   :caption: The Essentials
+   quick-start
+   quick-reference
+
+.. toctree::
+   :maxdepth: 2
+   :caption: User Guide
 
    introduction
-   quick-start
    making-diagrams
-   toolbar
-   shape-libraries
-   background-libraries
-   color
+   using-shape-libraries
+   using-background-libraries
+   working-with-color
 
 .. toctree::
    :maxdepth: 2
    :caption: Features
 
+   toolbar
    templates-panel
    extras-panel
    favorites-panel
