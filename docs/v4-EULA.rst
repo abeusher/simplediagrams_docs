@@ -203,7 +203,7 @@ Effective Date: End User License Agreement was last updated on 01/01/2017
 
         7.2.1.	One thousand (1000) Online Library searches each month;
 
-        7.2.2.	Two Hundred (200) Free Shape downloads each month;
+        7.2.2.	One hundred (100) Free Shape downloads each month;
 
         7.2.3.	Ten (10) premium Shape downloads each month; and
 
