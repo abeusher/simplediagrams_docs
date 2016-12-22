@@ -175,9 +175,9 @@ Effective Date: End User License Agreement was last updated on 01/01/2017
 
     6.4.	Unless you have subscribed to Extended Online Libraries, the basic Software Subscription will provide you with the following permissions:
 
-        6.4.1.	Fifty (50) Online Libraries searches per month
+        6.4.1.	One hundred (100) Online Libraries searches per month
 
-        6.4.2.	Five (5) ‘Free Shape’ downloads each month;
+        6.4.2.	Ten (10) ‘Free Shape’ downloads each month;
 
         6.4.3.	No ‘Premium Shape’ downloads each month;
 
@@ -203,7 +203,7 @@ Effective Date: End User License Agreement was last updated on 01/01/2017
 
         7.2.1.	One thousand (1000) Online Library searches each month;
 
-        7.2.2.	One Hundred (100) Free Shape downloads each month;
+        7.2.2.	Two Hundred (200) Free Shape downloads each month;
 
         7.2.3.	Ten (10) premium Shape downloads each month; and
 
