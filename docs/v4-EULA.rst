@@ -1,6 +1,6 @@
 
 SimpleDiagrams V4 End User License Agreement
-===============================================
+============================================
 
 SimpleDiagrams END USER LICENSE AGREEMENT: Version 4.0
 You must read this End User License Agreement before using SimpleDiagrams.
@@ -8,7 +8,7 @@ Effective Date: End User License Agreement was last updated on 01/01/2017
 
 
 1. Agreement
-----------------
+------------
 
     1.1. By installing or using the McQuillen Interactive Pty. Ltd. (the "Company") product SimpleDiagrams (the "Software") you indicate your agreement to the terms of this End User License Agreement (the "Agreement").
 
@@ -19,7 +19,7 @@ Effective Date: End User License Agreement was last updated on 01/01/2017
     1.4. Except to the extent expressly licensed herein, all rights are reserved to Company and its suppliers.
 
 2. Definitions
-----------------
+--------------
 
     2.1. In this Agreement, the following definitions apply:
 
@@ -61,10 +61,10 @@ Effective Date: End User License Agreement was last updated on 01/01/2017
         2.1.18. “Use” means storing, loading, installing or executing the Software;
 
         2.1.19. "You" shall mean you, a single: (i) individual, (ii) legal entity (corporation, partnership, LLC, sole proprietorship, etc.), or (iii) agent acting on behalf of a single individual or entity.
-        
+
 
 3. Licence Grant
---------------------
+----------------
 
     *Grant of Licence*
 
@@ -129,7 +129,8 @@ Effective Date: End User License Agreement was last updated on 01/01/2017
 
 
 
-4 Software License Fee
+4. Software License Fee
+-----------------------
 
     *Payment of Software License Fee*
 
@@ -151,6 +152,7 @@ Effective Date: End User License Agreement was last updated on 01/01/2017
 
 
 5. SimpleDiagrams Shape Library Plugins
+---------------------------------------
 
     5.1. You may have an opportunity to download either free or paid Shape Library Plugins from the Company website.
 
@@ -158,6 +160,7 @@ Effective Date: End User License Agreement was last updated on 01/01/2017
 
 
 6. Online Libraries Feature
+---------------------------
 
     *General*
 
@@ -188,9 +191,10 @@ Effective Date: End User License Agreement was last updated on 01/01/2017
 
     6.6.	You are permitted to export Shapes downloaded via Online Libraries in accordance with the Rules in clause 3.3 only. Unless exported for backup purposes, access to any shapes downloaded via Online Libraries will be permanently lost upon cancellation of the Online Libraries feature for any reason.
 
-7.  	Extended Online Libraries Feature
+7. Extended Online Libraries Feature
+------------------------------------
 
-*General*
+    *General*
 
     7.1.	You may elect to subscribe for ‘Extended Online Libraries’ feature in exchange for payment of a monthly Extended Online Libraries Subscription Fee.  The Extended Online Libraries Subscription Fee will be advertised at point of subscription via the Company’s website and may be subject to change. Extended Online Libraries, like Online Libraries, is a bonus feature and may be suspended or cancelled by the Company in the future.
     Increased Permissions
@@ -213,7 +217,8 @@ Effective Date: End User License Agreement was last updated on 01/01/2017
     7.4.	You are permitted to export Shapes downloaded via Online Libraries in accordance with the Rules in clause 3.3 only. Unless exported for backup purposes, access to any Premium Shapes downloaded via Online Libraries will be permanently lost upon cancellation of the Online Libraries or Extended Online Libraries feature for any reason.
 
 
-8.  	SimpleDiagrams Shape Licence
+8. SimpleDiagrams Shape Licence
+-------------------------------
 
     *Licence Coverage*
 
@@ -283,7 +288,8 @@ Effective Date: End User License Agreement was last updated on 01/01/2017
 
         8.5.6.	Generally, Shapes supplied with the base Software or through the Online Libraries Feature will not require attribution, but it is your responsibility to verify this in the “Library Shape Properties” for the relevant Shape.
 
-9.  	GST
+9. GST
+------
 
     *Definitions*
 
@@ -317,7 +323,8 @@ Effective Date: End User License Agreement was last updated on 01/01/2017
 
 
 
-10.  	Ownership of Intellectual Property Rights
+10. Ownership of Intellectual Property Rights
+---------------------------------------------
 
     *Ownership*
 
@@ -351,7 +358,8 @@ Effective Date: End User License Agreement was last updated on 01/01/2017
 
 
 
-11.  No Disassembly, Decompilation or Decryption
+11. No Disassembly, Decompilation or Decryption
+-----------------------------------------------
 
     *No disassembly or decryption*
 
@@ -377,7 +385,8 @@ Effective Date: End User License Agreement was last updated on 01/01/2017
 
 
 
-12.  No Warranties
+12. No Warranties
+-----------------
 
     *WARRANTIES EXCLUDED*
 
@@ -404,7 +413,8 @@ Effective Date: End User License Agreement was last updated on 01/01/2017
     12.3.	WHERE A WARRANTY OR GUARANTEE IS IMPLIED INTO THIS AGREEMENT BY LAW, SUCH WARRANTY OR GUARANTEE IS IMPLIED TO THE MINIMUM EXTENT NECESSARY TO GIVE EFFECT TO THAT LAW.
 
 
-13.  	No Liability for Damages
+13. No Liability for Damages
+----------------------------
 
     *LIMITATION OF LIABILITY*
 
@@ -415,19 +425,22 @@ Effective Date: End User License Agreement was last updated on 01/01/2017
     13.2.	THE COMPANY'S LIABILITY UNDER THIS AGREEMENT SHALL NOT EXCEED LICENSE FEES, IF ANY, PAID BY YOU DIRECTLY TO THE COMPANY FOR USE OF THE SOFTWARE OR ANY LICENSE FEE RECEIVED BY THE COMPANY FOR THE USE OF THE SOFTWARE IF PURCHASED THROUGH AN AUTHORIZED THIRD PARTY.
 
 
-14.  	Customer Remedies
+14. Customer Remedies
+---------------------
 
     14.1.	YOUR EXCLUSIVE REMEDY (INCLUDING FOR WARRANTIES IMPLIED UNDER THE COMPETITION AND CONSUMER ACT 2010 (CTH)) SHALL BE, AT COMPANY OPTION, REPLACEMENT OF THE SOFTWARE OR REFUND OF PART OR ALL OF THE LICENSE FEE, IF ANY, PAID BY YOU TO THE COMPANY OR THE COMPANY’S AUTHORISED AGENT OR RESELLER FOR THE SOFTWARE.
 
 
 
-15.  	Maintenance
+15. Maintenance
+---------------
 
     15.1.	THE COMPANY UNDERTAKES NO OBLIGATION TO MAINTAIN ANY PORTION OF THE SOFTWARE.
 
 
 
-16.  	Indemnification
+16. Indemnification
+-------------------
 
     16.1.	You agree to hold harmless, indemnify and defend the Company, its officers, employees, contractors, agents and suppliers against any loss (including consequential loss), damage, fine, or expense (including legal fees on an indemnity basis) arising out of or related to any act or omission of you, your officers, employees, contractors, or agents including, but not limited to:
 
@@ -440,7 +453,8 @@ Effective Date: End User License Agreement was last updated on 01/01/2017
 
 
 
-17.  	Term and Termination
+17. Term and Termination
+------------------------
 
     *Term*
 
@@ -461,7 +475,8 @@ Effective Date: End User License Agreement was last updated on 01/01/2017
 
 
 
-18.  	Upgrades
+18. Upgrades
+------------
 
     *Eligibility*
 
@@ -479,6 +494,7 @@ Effective Date: End User License Agreement was last updated on 01/01/2017
 
 
 19. Assignment and non-assignment
+---------------------------------
 
     *Single Licence*
 
@@ -502,23 +518,27 @@ Effective Date: End User License Agreement was last updated on 01/01/2017
 
 
 
-20.  	Export Requirements
+20. Export Requirements
+-----------------------
 
     20.1.	You may not export or re-export the Software or any copy or adaptation in violation of any applicable laws or regulations.
 
 
 
-21.  	U.S. Government Restricted Rights
+21. U.S. Government Restricted Rights
+-------------------------------------
 
     21.1.	The Software and any accompanying documentation have been developed entirely at private expense. They are delivered and licensed as "commercial computer software." If this Software is acquired under the terms of a DOD or civilian agency contract, use, reproduction or disclosure of the Software by the Government is subject to the restrictions set forth in this License Agreement in accordance with 48 C.F.R. 227.7202 or 48 C.F.R. 12.212, respectively.
 
 
-22.  	No Partnership
+22. No Partnership
+------------------
 
     22.1.	The Company shall not become or be deemed a partner or a joint venturer with you by reason of the provisions of this license. You are not authorized to take any action on behalf of the Company or to commit the Company in any way.
 
 
-23.  	Governing Law and Forum
+23. Governing Law and Forum
+---------------------------
 
     *Action by you*
 
@@ -542,25 +562,29 @@ Effective Date: End User License Agreement was last updated on 01/01/2017
 
 
 
-24.  	Entire Agreement
+24. Entire Agreement
+--------------------
 
     24.1.	Unless otherwise expressly agreed in writing, this License Agreement constitutes the sole and exclusive agreement between you and Company with regard to the Software, and supersedes all prior agreements, whether oral or written, and other communications between the parties relating to the subject matter set forth herein.
 
 
 
-25.  	No Waiver
+25. No Waiver
+-------------
 
     25.1.	The failure of either party hereto to enforce its rights with respect to a breach hereunder will not constitute a waiver of the right to enforce its rights with respect to the same or any other breach.
 
 
 
-26.  	Severability
+26. Severability
+----------------
 
     26.1.	If any part of this Agreement is found to be invalid or unenforceable, that part of the Agreement is severed and the remainder of the Agreement continues in force.
 
 
 
-27.  	Notices
+27. Notices
+-----------
 
     *Notices from the Company*
 
@@ -588,7 +612,8 @@ Effective Date: End User License Agreement was last updated on 01/01/2017
 
 
 
-28.  	Amendments
+28. Amendments
+--------------
 
     28.1.	The Company may amend this License Agreement at any time or from time to time by notifying you as aforesaid.
 
@@ -598,7 +623,8 @@ Effective Date: End User License Agreement was last updated on 01/01/2017
 
 
 
-29.  	Contacts
+29. Contacts
+------------
 
     29.1.	If you have any questions regarding this License Agreement or if you wish to request any information from Company, please contact the firm at the email address below. All correspondence must be in English.
 
