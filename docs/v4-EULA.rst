@@ -641,41 +641,50 @@ EXHIBIT A: Open Source Components
 Simple Diagrams uses portions the following open source libraries in the application code.
 The license for each library is listed, as is a link to the full text of the license (except for The Apache 2.0 License, which is included below).
 
-1.	Adobe Flex SDK : licensing information is located here: http://opensource.adobe.com/wiki/display/flexsdk/Legal+Stuff
 
-2.	SWIZ Framework
+1. Apache Flex
+* The outstanding community that makes it all happen. Apache Flex people, thank you!
+* Apache Flex is licensed under the Apache License, Version 2.0 : http://www.apache.org/licenses/LICENSE-2.0
+* The Apache Licence, Version 2.0, included below
+
+2. as3csslib
+* Awesome library that helps us parse SVGs
+* Google code page: https://code.google.com/archive/p/as3csslib/
+* as3csslib is licensed under the Apache License, Version 2.0 : http://www.apache.org/licenses/LICENSE-2.0
+
+3.	SWIZ Framework
 * SWIZ information can be found here: http://code.google.com/p/swizframework/
 * SWIZ is licensed under the Apache License, Version 2.0 : http://www.apache.org/licenses/LICENSE-2.0
 * The Apache Licence, Version 2.0, included below
 
-3. FZIP Library
+4. FZIP Library
 * FZIP information can be found here: http://codeazur.com.br/lab/fzip/
 * FZIP is licensed under OSI the zlib/libpng License, the full text of which is located here: http://www.opensource.org/licenses/zlib-license.php
 
-4. Portions of the GraphicsUtils.as class by Chris Callendar
+5. Portions of the GraphicsUtils.as class by Chris Callendar
 * Complete source code is posted here: http://flexdevtips.blogspot.com/2010/01/drawing-dashed-lines-and-cubic-curves.html
 * Code is licensed under Creative Commons Attribution 2.5 License (CC By 2.5), the full text of which is located here : http://creativecommons.org/licenses/by/2.5/ca/
 
-5. SubtlePatterns images
+6. SubtlePatterns images
 * Some SubtlePattern images are used in  the "SubtlePatterns" background library that is provided as a default library
 * Images are available via Atle Mo's SubtlePatterns website http://www.subtlepatterns.com
 * Images are provided by SubtlePatterns under Creative Commons Attribution 3.0 Unported (no attribution required), the full text of which is located here: http://creativecommons.org/licenses/by/3.0/
 
-6. AlivePDF library
+7. AlivePDF library
 * AlivePDF is licensed under The MIT License, the full text of which is located here: http://opensource.org/licenses/mit-license.php
 * More information about AlivePDF is located here: https://code.google.com/p/alivepdf/
 
-7. FlexXB
+8. FlexXB
 * Portions of the FlexXB library are used to help with serialization and deserialization tasks
 * FlexXB is licensed under The Apache License, Version 2.0, which is included below
 * More information about FlexXB is located here: https://code.google.com/p/flexxb/
 
-8. ASCommons
+9. ASCommons
 * SimpleDiagrams uses the TypeCache library
 * More information about ASCommons is located here: http://www.as3commons.org/
 * ASCommons is licensed under The Apache License, Version 2.0, which is included below
 
-9. AS3SVGRenderer
+10. AS3SVGRenderer
 * Awesome SVG renderer by the talented Lucas Lorentz : https://github.com/lucaslorentz/AS3SVGRenderer
 * AS3SVGRenderer is licensed under the MIT License : http://opensource.org/licenses/mit-license.php
 
