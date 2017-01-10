@@ -24,7 +24,7 @@ At this point, two things happen:
 
 .. image:: /_static/images/presentation-mode-example.jpg
 
-At this point, you can move the presentation window to another screen, or make it full screen, and then start talking about it to somebody who cares.
+At this point, you can move the presentation window to another screen or make it full screen. Then you can start talking about it to somebody who cares.
 
 Controlling Presentation
 ----------------
