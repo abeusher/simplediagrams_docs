@@ -30,7 +30,8 @@ Controlling Presentation
 ----------------
 
 You can control the presentation window in a few ways.
-* Presentation Window controls in main window
+
+* Presentation Controls dialog in main window
 * Shortcut keys in presentation window
 * Hidden control buttons in presentation window
 
@@ -42,6 +43,10 @@ You can pick either an arrow pointer (one of three sizes) or the pencil tool.
 
 Use the other controls to toggle screen size, whether forward/backward arrows appear in the presentation window,
 how much of the diagram area to match and the arrow keys to move between tabs in your document.
+
+Control Keys
+------------------
+* You can use the arrow keys to move backwards and forward through your tabs.
 
 
 Cursor Tool
