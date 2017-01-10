@@ -1,7 +1,7 @@
 Using Presentation Mode
 =====================
 
-Sometimes you want to use your SimpleDiagram when you explain something to your friend or colleague. Which is good because
+Sometimes you want to use your SimpleDiagram when you're explaining something interesting to your friend or colleague. Which is good because
 that's what SimpleD is for. However, in this situation the main user interface can get in the way. That's why there's "Presentation Mode."
 
 Presentation mode is a way of launching a separate window that just shows your SimpleDiagram. No user interface. You can use this window when explaining something
