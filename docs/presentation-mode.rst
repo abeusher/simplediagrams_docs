@@ -46,7 +46,13 @@ how much of the diagram area to match and the arrow keys to move between tabs in
 
 Control Keys
 ------------------
-* You can use the arrow keys to move backwards and forward through your tabs.
+There are a few keyboard shortcuts that you can use when you're in presentation mode
+and the presentation window is active:
+
+* **Arrow keys** You can use the left and right arrow keys to move backwards and forward through your tabs.
+* **P** You can use the P key to select pencil tool
+* **V** You can use the V key to select pointer tool
+* **SPACE** Press the SPACE bar to move forward one tab.
 
 
 Cursor Tool
