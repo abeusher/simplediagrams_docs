@@ -16,6 +16,6 @@ So, if I make a change to that theme, I have to
 5. Finally, push docs changes here to git so that ReadTheDocs picks them up. The new styles should go along for the ride.
 
 Looks like doing a 
-`pip install -r requirements.txt --ugprade` is a round-about way of getting the theme to update
+`pip install -r requirements.txt --ugprade` is does get the theme to update, but somehow `make html` doesn't pick it up.
 
  
