@@ -14,3 +14,5 @@ To add a shape to the favorites panel:
 * Select 'Add to favorites'
 
 .. figure:: /_static/images/add-to-favorites.png
+
+(In version 4.1 you'll be able to drag a shape directly from your document onto this panel.)
