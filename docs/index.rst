@@ -49,6 +49,7 @@ Contents:
    view-helpers
    manage-libraries
    color-selectors
+   custom-palettes
 
 .. toctree::
    :maxdepth: 2
