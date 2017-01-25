@@ -8,8 +8,8 @@ Otherwise the panel will get too cluttered and that's not good for anyone.
 
 To add a shape to the favorites panel:
 
-* Click the "Library" menu button to go to "Shapes" panel
-* Find the shape in its library
+* Click the "Shapes" menu button (F1) to go to Shapes panel
+* Find the shape you want in its library
 * Right-click it
 * Select 'Add to favorites'
 
