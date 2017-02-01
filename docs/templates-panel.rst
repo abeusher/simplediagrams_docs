@@ -38,9 +38,12 @@ To create a new template library, select **Libraries** > **New custom library** 
 
 .. figure:: /_static/images/template-create-custom-library.jpg
 
+You'll now see your new library in the **Templates** panel, ready for some new templates:
+
+.. figure:: /_static/images/template-new-library-header.jpg
 
 
-Adding a New Template
+Creating a New Template
 --------------------------------
 
 You can create a new template in your library by right- or shift-clicking anywhere in the template library and selecting "Create template":
