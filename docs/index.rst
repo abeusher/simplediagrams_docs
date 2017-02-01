@@ -38,6 +38,8 @@ Contents:
    :caption: Features
 
    toolbar
+   shapes-panel
+   backgrounds-panel
    templates-panel
    extras-panel
    favorites-panel
