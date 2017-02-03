@@ -1,7 +1,6 @@
 SimpleDiagrams Color Palette (.sdcp) Format
-============
+============================================
 
-( tktktktk)
-
+(content coming soon!)
 
 

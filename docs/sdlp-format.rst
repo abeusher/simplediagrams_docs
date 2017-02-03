@@ -1,7 +1,7 @@
 SimpleDiagrams Library Plugin (.sdlp) Format
-============
+===============================================
 
-( tktktktk)
+(content coming soon!)
 
 
 

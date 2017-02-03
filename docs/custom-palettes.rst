@@ -1,7 +1,7 @@
 Custom Palettes
 ================
 
-( tktktktk)
+(content coming soon!)
 
 
 

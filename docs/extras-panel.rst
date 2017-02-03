@@ -1,4 +1,4 @@
 Extras Panel
 ==================
 
-(tktktkt)
+(content coming soon!)

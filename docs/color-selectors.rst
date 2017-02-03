@@ -1,16 +1,16 @@
 Selecting Colors
 =======================
-(tktktkt)
+(content coming soon!)
 
 Stroke and Fill Color Selectors
 -------------------------------
-(tktktkt)
+(content coming soon!)
 
 Palettes
 ---------
 
-(tktktkt)
+(content coming soon!)
 
 Styles
 ---------
-(tktktkt)
+(content coming soon!)

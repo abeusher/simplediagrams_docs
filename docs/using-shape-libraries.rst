@@ -1,31 +1,31 @@
 Working with Shape Libraries
 =============================
-(tktktkt)
+(content coming soon!)
 
 Libraries Panel
 -------------------
-(tktktkt)
+(content coming soon!)
 
 Standard Libraries
 -------------------
-(tktktkt)
+(content coming soon!)
 
 Custom Libraries
 -------------------
-(tktktkt)
+(content coming soon!)
 
 Online Libraries
 -------------------
-(tktktkt)
+(content coming soon!)
 
 Selecting Shapes
--------------------
-(tktktkt)
+------------------------
+(content coming soon!)
 
 Searching for Shapes
--------------------
-(tktktkt)
+------------------------
+(content coming soon!)
 
 Exporting a Custom Library
--------------------
-(tktktkt)
+----------------------------
+(content coming soon!)

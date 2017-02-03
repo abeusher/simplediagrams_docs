@@ -1,4 +1,4 @@
 Search Panel
 ===================
 
-(tktktkt)
+(content coming soon!)
