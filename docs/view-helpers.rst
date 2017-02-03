@@ -1,19 +1,19 @@
 Helpers
 ========================
-(tktktkt)
+(content coming soon!)
 
 Quick Navigation
 --------------------
-(tktktktk)
+(content coming soon!)
 
 Grid
 --------------------
-(tktktktk)
+(content coming soon!)
 
 Rulers
 ---------------------
-(tktktktk)
+(content coming soon!)
 
 Quick Styles
 ---------------------
-(tktktktk)
+(content coming soon!)
