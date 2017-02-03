@@ -7,8 +7,8 @@ Templates Panel
 
 Templates are cool. Templates help you. This is how.
 
-You can use templates to organize things that you often find yourself repeating when you create a diagram. You arrange these elements just how you want them in a diagram 'template' and
-then just drag that template onto a working diagram when you need it.
+You can use templates to organize things that you often find yourself repeating when you create a diagram. You arrange shapes and text fields just how you want them in a diagram 'template' and
+then you drag that template onto a working diagram when you need it.
 
 For example, perhaps there's a certain arrangement of business shapes you use quite often. Or perhaps some text stuff that
 you put at the top of every diagram. These kinds of things go into a template.
@@ -67,7 +67,43 @@ Click the "Template Properties" button in that green bar to modify how your temp
 Adding Things to your Template
 ---------------------------------
 
-Ok this is where things get interesting.
+Ok this is where things get interesting. When you edit your template you arrange shapes, text fields and images the way you want them so they're ready to go when you pull your template into a diagram.
+
+Important note: When you are working with your template, you'll probably need to switch to the library panel to grab new shapes, or perhaps the search panel to search for a shape. But you're still working
+on a template. The green border will remind you of that.
+
+Let's set up that special UX Reaction Plan that you like to use in a lot of your diagrams...
+
+.. figure:: /_static/images/template-basic-example.jpg
+
+If you select any shape or text area in your template, you'll notice a new drop-down selector in the properties window:
+
+.. figure:: /_static/images/template-new-selector.jpg
+
+This dropdown has three options:
+
+  * **Free**: after you drag the template into your diagram, you'll be able to move this particular item and change it all you want.
+  * **Placeholder**: after you drag the template into your diagram, you *won't* be able to move this particular item, but you will be able to change things like text or color on this particular item.
+  * **Fixed**: after you drag this template into your diagram, you won't be able to change anything about this particular item.
+
+For example, you might want to set a text header to **Placeholder** so you can change the text but not the position.
+
+You can set any item in your template to one of these three settings, and it will behave accordingly when you later drag the template into your diagram.
+
+Here's how we want our UX Reaction Plan template to work:
+
+.. figure:: /_static/images/template-ux-example-comments.jpg
+
+Click the "DONE" Button in the green bar at the bottom of the screen when you're done editing your template (you can always edit again later).
+
+You'll now see your template in your template library, ready to be dragged out whenever you need that UX Reaction Plan.
+
+.. figure:: /_static/images/template-ready-to-use.jpg
+
+
+
+
+
 
 
 
