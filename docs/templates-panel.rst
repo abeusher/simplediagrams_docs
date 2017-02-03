@@ -100,7 +100,7 @@ You'll now see your template in your template library, ready to be dragged out w
 
 .. figure:: /_static/images/template-ready-to-use.jpg
 
-Remember that when you drag your template into your diagram, each item in that template will behave differently, depending on whether you set it to be **Free**,**Placeholder**, or **Fixed**.
+Remember that when you drag your template into your diagram, each item in that template will behave differently, depending on whether you set it to be **Free**, **Placeholder**, or **Fixed**.
 
 
 
