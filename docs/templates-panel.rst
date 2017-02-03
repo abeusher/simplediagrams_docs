@@ -7,8 +7,8 @@ Templates Panel
 
 Templates are cool. Templates help you. This is how.
 
-You can use templates to organize things that you often find yourself repeating when you create a diagram. You arrange shapes and text fields just how you want them in a diagram 'template' and
-then you drag that template onto a working diagram when you need it.
+Use templates to organize things that you find yourself repeating when creating diagrams. You can arrange shapes and text fields just how you want them in a diagram 'template' and
+then you drag that template onto a working diagram every time you need it.
 
 For example, perhaps there's a certain arrangement of business shapes you use quite often. Or perhaps some text stuff that
 you put at the top of every diagram. These kinds of things go into a template.
