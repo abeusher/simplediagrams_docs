@@ -9,7 +9,7 @@ This document is my attempt to explain to you how best to use SimpleDiagrams.
 Actually, you shouldn't even be here. The user interface should have made it easy to figure out
 what you wanted to do.
 
-Alas, here you are. But try not to be sad. These docs will get you back to being productive with
+Alas, here you are. But try not to be sad. These docs will get you productive with
 the app as quickly as possible.
 
 Skip to the :ref:`quick-start` page if this much help text has already made you cranky.
