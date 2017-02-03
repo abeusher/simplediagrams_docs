@@ -14,7 +14,6 @@ the app as quickly as possible.
 
 Skip to the :ref:`quick-start` page if this much help text has already made you cranky.
 
-Contents:
 
 .. toctree::
    :maxdepth: 2
