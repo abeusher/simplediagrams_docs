@@ -9,6 +9,9 @@ This document is my attempt to explain to you how best to use SimpleDiagrams.
 Actually, you shouldn't even be here. The user interface should have made it easy to figure out
 what you wanted to do.
 
+WARNING WARNING : I'm still in the process of writing these docs. So a bunch of sections don't have
+any content yet. Email me directly if you're stuck, support@simplediagrams.com.
+
 Alas, here you are. But try not to be sad. These docs will get you productive with
 the app as quickly as possible.
 
