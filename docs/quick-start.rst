@@ -8,4 +8,4 @@ spent on making your coffee just right. Spend the rest of that time here and you
 how to use SimpleD. Then come back to the other docs when you need more help or want to become a power user, because in
 the end everyone wants to be a power user.
 
-(Quick start content coming soon!)
+(Quick start content coming soon! For realio.)
