@@ -42,6 +42,12 @@ Here's a quick reference to the command keys and other shortcuts you can use to 
                 <td>Paste selection.</td>
             </tr>
 
+                <tr>
+                <td>Ctrl Shift V</td>
+                <td>Cmd Shift V</td>
+                <td>Paste selection in place.</td>
+            </tr>
+
             <tr>
                 <td>Ctrl T</td>
                 <td>Cmd T</td>
