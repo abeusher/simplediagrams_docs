@@ -447,7 +447,7 @@ Here's a quick reference to the command keys and other shortcuts you can use to 
             <tr>
                 <td>Alt then click-drag</td>
                 <td>Alt then click-drag</td>
-                <td><b>Quick Connector Mode:</b> Hold down the alt key to switch to quick connector mode. Nearby shapes should immediately show their blue "X" connector spots. Just click one of those and drag to start a connector. After you finish your connector your cursor will return to the previous mode.)</td>
+                <td><b>Quick Connector Mode!</b> This one is cool. Hold down the alt key to switch to quick connector mode. Nearby shapes should immediately show their blue "X" connector spots. Just click one of those and drag to start a connector. After you finish your connector your cursor will return to the previous mode.)</td>
             </tr>
             <tr>
                 <td>Alt-Shift then click-drag</td>
