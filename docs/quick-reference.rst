@@ -31,6 +31,12 @@ Here's a quick reference to the command keys and other shortcuts you can use to 
             </tr>
 
             <tr>
+                <td>SPACE</td>
+                <td>SPACE</td>
+                <td>Switch to pan (grab) tool</td>
+            </tr>
+
+            <tr>
                 <td>Ctrl X</td>
                 <td>Cmd X</td>
                 <td>Cut selection.</td>
