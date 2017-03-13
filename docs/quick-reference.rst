@@ -25,6 +25,12 @@ Here's a quick reference to the command keys and other shortcuts you can use to 
             </tr>
 
             <tr>
+                <td>ESC</td>
+                <td>ESC</td>
+                <td>Show/Hide action panels</td>
+            </tr>
+
+            <tr>
                 <td>Ctrl X</td>
                 <td>Cmd X</td>
                 <td>Cut selection.</td>
