@@ -7,7 +7,7 @@ Welcome to the SimpleDiagrams Super Simple Docs
 ========================================================
 
 (WARNING : I'm still in the process of writing these docs. So a bunch of sections don't have
-any content yet. Email me directly if you're stuck, support@simplediagrams.com.)
+any content yet. Email me directly if you're stuck, daniel@mcquilleninteractive.com.)
 
 This document is my attempt to explain to you how best to use SimpleDiagrams.
 Actually, you shouldn't even be here. The user interface should have made it easy to figure out
