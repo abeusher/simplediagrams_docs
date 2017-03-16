@@ -12,9 +12,10 @@ viewable area. Drag that blue box around to zip around your diagram. Much better
 
 To show/hide Quick Navigation:
 
-Mac OS: cmd-SHIFT-Q
+macOS:      cmd-SHIFT-Q
 
-PC: ctrl-SHIFT-Q
+PC:     ctrl-SHIFT-Q
+
 
 Grid
 --------------------
@@ -31,15 +32,15 @@ the grid is in front or behind your stuff, and whether to include it when you ex
 
 To show/hide the grid:
 
-Mac OS: cmd-'   (single-quote)
+MmacOS:     cmd-'
 
-PC: ctrl-'   (single quote)
+PC:     ctrl-'
 
 To enabled/disable snap to grid:
 
-Mac OS: cmd-SHIFT-'   (single-quote)
+macOS:     cmd-SHIFT-'
 
-PC: ctrl-SHIFT-'   (single quote)
+PC:     ctrl-SHIFT-'
 
 
 Rulers
@@ -53,9 +54,9 @@ Rules will update their units based on the units you set when you created the do
 
 To show/hide rulers:
 
-Mac OS: cmd-R
+macOS:     cmd-R
 
-PC: ctrl-R
+PC:     ctrl-R
 
 
 Quick Styles
@@ -76,6 +77,6 @@ If you want to change that box later, just drop a new style on it from a full ey
 
 To show/hide Quick Styles:
 
-Mac OS: cmd-K
+macOS:     cmd-K
 
-PC: ctrl-K
+PC:     ctrl-K

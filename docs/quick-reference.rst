@@ -11,7 +11,7 @@ Here's a quick reference to the command keys and other shortcuts you can use to 
         <thead>
             <tr>
                 <th style="min-width:120px; ">PC</th>
-                <th style="min-width:120px; ">OSX</th>
+                <th style="min-width:120px; ">macOS</th>
                 <th>Description</th>
             </tr>
         </thead>
