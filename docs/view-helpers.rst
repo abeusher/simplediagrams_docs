@@ -5,7 +5,7 @@ They are all found under the view menu and they'll always be there for you.
 
 Quick Navigation
 --------------------
-This small box let's you see your whole diagram in minature. The blue rectangle in the box shows you the current
+This small box let's you see your whole diagram in miniature. The blue rectangle in the box shows you the current
 viewable area. Drag that blue box around to zip around your diagram. Much better than scrollbars.
 
 .. figure:: /_static/images/quick-nav-example.png
