@@ -10,7 +10,7 @@ viewable area. Drag that blue box around to zip around your diagram. Much better
 
 .. figure:: /_static/images/quick-nav-example.png
 
-To show/hide:
+To show/hide Quick Navigation:
 
 Mac OS: cmd-SHIFT-Q
 PC: ctrl-SHIFT-Q
@@ -18,11 +18,12 @@ PC: ctrl-SHIFT-Q
 Grid
 --------------------
 
-The grid helper just shows a grid on top of whatever you're doing. You can choose to snap
+The grid helper just shows a grid behind whatever you're doing. You can choose to snap
 objects to it, or just use it for a visual guide.
 
-To control the line color, size  of the cells, and whether the grid is in front or behind your stuff,
-use the grid properties dialog ( *View* > *Grid properties* )
+Use the grid properties dialog to control things like line color, the size of the cells, whether
+the grid is in front or behind your stuff, and whether to include it when you export your diagram to another format.
+ ( *View* > *Grid properties* )
 
 .. figure:: /_static/images/grid-properties-dialog.png
 
@@ -40,7 +41,7 @@ PC: ctrl-SHIFT-'   (single quote)
 Rulers
 ---------------------
 
-Rulers help you see where your stuff is. They're not so powerful yet because you can't drag out guides, but we'll get to that eventually.
+Rulers help you get a sense of position and size. They're not so powerful yet because you can't drag out guides, but we'll get to that eventually.
 Rules will update their units based on the units you set when you created the document: pixels, feet or meters.
 
 To show/hide rulers:
